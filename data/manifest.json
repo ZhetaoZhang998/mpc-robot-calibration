@@ -1,0 +1,117 @@
+[
+  {
+    "source": "数据集/HSR-P.xlsx",
+    "repository": "data/raw/HSR-P.xlsx",
+    "sha256": "ee695fee5b47ed7471f0849ffdcebb3a457c1094cd5b62346218ca6c3c514523"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/HSR-P_DE_top100.xlsx",
+    "repository": "data/provided_selection/HSR-P_DE_top100.xlsx",
+    "sha256": "778c608300d3047730300fdf9d865805639e9c891863dccf8c10bf334b56a187"
+  },
+  {
+    "source": "An_Efficient_Industrial_Robot_Calibrator_With_Multiplaner_Constraints.pdf",
+    "repository": "paper/paper.pdf",
+    "sha256": "848940006560f51a7a0f0023bd6464b3ef65eed28a5409ccc94ecba626dce35b"
+  },
+  {
+    "source": "SF-TII3450112.pdf",
+    "repository": "paper/supplement.pdf",
+    "sha256": "af54ee0a564ecb843fef0e491385d2c6cea1e7a9bd2b6b0a25fe9556b19e0e4f"
+  },
+  {
+    "source": "实验表数据及说明.docx",
+    "repository": "paper/experiment_tables.docx",
+    "sha256": "a55a215d380a4bcc4386cfe8aae89cb91d2235742181d29ec3bb482528a5897a"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/pre_processing.m",
+    "repository": "reference/calibration/pre_processing.m",
+    "sha256": "c3f3d0842a6fc8f3338b2f018b658db5edfe552dafaf036931d74ae81b5b8ffd"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/mainSingleplane.m",
+    "repository": "reference/calibration/mainSingleplane.m",
+    "sha256": "8ed254a0574d13f1b292e9f9e350a5ba5c35291cc5fd55d677730f860e8f2f82"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/my_forward_main2.m",
+    "repository": "reference/calibration/my_forward_main2.m",
+    "sha256": "68228b6d7c4dbf43e9166e70f3b7af32a3dfaaa4d166b682893ef0001f4fb8f7"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/my_Jacobian0.m",
+    "repository": "reference/calibration/my_Jacobian0.m",
+    "sha256": "804296c816224ddbeecf38df388fcf3d7c3d5eb2a987276fa8d3d6d6f4f76ccc"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/my_Jacobian.m",
+    "repository": "reference/calibration/my_Jacobian.m",
+    "sha256": "df9edbb2c22d0d527ecc39fb7e38bbff0277916081a9ba77def6c23248bce0e8"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/my_forward.m",
+    "repository": "reference/calibration/my_forward.m",
+    "sha256": "e034d76a6aeafe1298270914fb3f492ae6cfa48d82d194ab1db1ad08a00f0795"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/my_Jacobian2.m",
+    "repository": "reference/calibration/my_Jacobian2.m",
+    "sha256": "c218b55ba8acd38d954e4a3188126a1cbe14f512d133d6f670cb076c3a20cc34"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/my_Jacobian00.m",
+    "repository": "reference/calibration/my_Jacobian00.m",
+    "sha256": "44f460efbfb7698342992cc8fbb2ff2f17a7318ea7209a7b6656a3cd1c246479"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/my_Jacobian1.m",
+    "repository": "reference/calibration/my_Jacobian1.m",
+    "sha256": "813edf57fbeaae27f1198f799263977b4195dcce06043721d25672d471bcb079"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/my_fit_anchor.m",
+    "repository": "reference/calibration/my_fit_anchor.m",
+    "sha256": "b989a297a311fe947c446d2bbd38287b72af88d6d34270b0bc3ddc1ba503b1c2"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/mainMultiplaner.m",
+    "repository": "reference/calibration/mainMultiplaner.m",
+    "sha256": "edf699727cf5bf8c830a6bc12f6d554ebf192a0d69e5f354e54fc5e820c0db13"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/my_Jacobian3.m",
+    "repository": "reference/calibration/my_Jacobian3.m",
+    "sha256": "158c085998701242c1ae89c248f0671ac1625f8d557959e404064f8e4634ed23"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/my_forward1.m",
+    "repository": "reference/calibration/my_forward1.m",
+    "sha256": "8e2b6244200561260746dd6207840e7faea1ebb3e446e64a15b8ca1a1f6055cb"
+  },
+  {
+    "source": "代码/AMPC算法/基于平面约束的拉线标定-ADMM算法 拉线1/my_plane_delta.m",
+    "repository": "reference/calibration/my_plane_delta.m",
+    "sha256": "940052e126ce6c32866434ce0bd4456e79e55d2ef1894bc049d9e3b612c2e62a"
+  },
+  {
+    "source": "代码/可观测性指标/my_Jacobian.m",
+    "repository": "reference/selection/my_Jacobian.m",
+    "sha256": "df9edbb2c22d0d527ecc39fb7e38bbff0277916081a9ba77def6c23248bce0e8"
+  },
+  {
+    "source": "代码/可观测性指标/my_forward.m",
+    "repository": "reference/selection/my_forward.m",
+    "sha256": "e034d76a6aeafe1298270914fb3f492ae6cfa48d82d194ab1db1ad08a00f0795"
+  },
+  {
+    "source": "代码/可观测性指标/mainObservabilityIndex.m",
+    "repository": "reference/selection/mainObservabilityIndex.m",
+    "sha256": "5c6f9fbd6e323fb2aec3aa62dc16f16e24d33d270d5bde39d72279de9a53a8fb"
+  },
+  {
+    "source": "代码/可观测性指标/mainO60.m",
+    "repository": "reference/selection/mainO60.m",
+    "sha256": "1487fe0dd095c41d47ad312bbd116b06f75a0e7b151a46d663fe30986653573d"
+  }
+]

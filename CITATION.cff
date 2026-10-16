@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying research paper."
+type: article
+title: "An Efficient Industrial Robot Calibrator With Multiplaner Constraints"
+authors:
+  - family-names: Chen
+    given-names: Tinghui
+  - family-names: Yang
+    given-names: Weiyi
+  - family-names: Zhang
+    given-names: Zhetao
+  - family-names: Luo
+    given-names: Xin
+year: 2024
+doi: 10.1109/TII.2024.3450112
+journal: IEEE Transactions on Industrial Informatics
